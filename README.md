@@ -5,6 +5,10 @@ A simple Leaflet map template for new users to copy, modify, and experiment
 
 https://yuccafrita.github.io/leaflet-map-simple/
 
+## Mapping Source
+
+http://la.curbed.com/2017/4/7/15199702/best-los-angeles-campsites
+
 ## Create your own version
 - See video with step-by-step tutorial at https://www.datavizforall.org/leaflet/simple
 
