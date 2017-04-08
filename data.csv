@@ -1,4 +1,7 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.745167,-72.69263,"300 SUMMIT ST, HARTFORD, CT, 06106",Exact,US Census
-Capital Community College,950 Main St Hartford CT 06103,41.768074,-72.673065,"950 MAIN ST, HARTFORD, CT, 06103",Exact,US Census
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.794655,-72.71764,"200 BLOOMFIELD AVE, WEST HARTFORD, CT, 06117",Exact,US Census
+Buckhorn Campground,"Angeles National Forest - San Gabriel Mountains National Monument, Angeles Crest Hwy, La Canada Flintridge, CA 91011",34.317152,-118.005925,"Angeles National Forest - San Gabriel Mountains National Monument, Arcadia, CA 91006, USA",Match,Google
+Carpinteria State Beach Campground,"205 Palm Ave, Carpinteria, CA 93013",34.3924273,-119.5208417,"205 Palm Ave, Carpinteria, CA 93013, USA",Partial Match,Google
+Henninger Flats,"1750 N. Altadena Dr, Pasadena, CA 91107",34.177118,-118.096749,"1750 N Altadena Dr, Pasadena, CA 91107, USA",Match,Google
+Horse Flats,"Angeles National Forest - San Gabriel Mountains National Monument, Pearblossom,  CA 93553",34.5064141,-117.9096804,"Pearblossom, CA 93553, USA",Partial Match,Google
+Sycamore Canyon Campground,"9000 W. Pacific Coast Highway, Malibu, CA 90265",34.0702881,-119.0121139,"9000 Pacific Coast Hwy, Malibu, CA 90265, USA",Partial Match,Google
+West Fork Trail Camp,"Angeles National Forest - San Gabriel Mountains National Monument, Gabrieleno Trail, Azusa, CA 91702",34.2423575,-118.0420259,"Gabrieleno Trail, Azusa, CA 91702, USA",Partial Match,Google
